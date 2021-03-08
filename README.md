@@ -5,9 +5,9 @@ The report for this project is available in this repository:
 Module 3 Paraphrase detection ZixunXiang.pdf
 
 The three algorithms are:
-AlgoBaseline.py
-AlgorithmB.py
-AlgorithmBPlus.py
+AlgoBaseline.py;
+AlgorithmB.py;
+AlgorithmBPlus.py;
 
 For the last two algorithm:
 Note that the weight for each POS is manually set up for testing purpose.
